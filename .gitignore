@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.pt
+*.ipynb_checkpoints
+
+# Env & packages
+env/
+.venv/
+*.egg-info/
+.DS_Store
+
+# Datasets and outputs
+data/flickr8k_dataset/
+data/image_features.json
+outputs/
