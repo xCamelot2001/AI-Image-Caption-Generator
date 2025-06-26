@@ -1,4 +1,4 @@
-# 🖼️ AI Image Caption Generator
+# AI Image Caption Generator
 
 This project is a minimal image captioning model using CNN + LSTM, trained on the Flickr8k dataset.
 
